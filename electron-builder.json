@@ -1,5 +1,5 @@
 {
-  "productName": "angular-electron",
+  "productName": "slim-angular-electron",
   "directories": {
     "output": "release/"
   },
