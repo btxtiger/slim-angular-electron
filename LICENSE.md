@@ -1,5 +1,10 @@
-Original work Copyright 2018 - Maxime GRIS
-Modified work Copyright 2019 - Jonas Gnioui
+MIT License
+
+Modified work: Copyright (c) 2019 Jonas Gnioui <btxtiger@outlook.com>
+
+Original work:
+
+Copyright 2018 - Maxime GRIS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
